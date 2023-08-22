@@ -4,11 +4,10 @@
 
 ### Description
 
-Eagle Music Band is a talented group of musicians with a passion for creating soul-stirring melodies that resonate with audiences worldwide. Our music blends the raw energy of rock, the storytelling finesse of blues, and the emotive depth of folk, resulting in a captivating and unique sound. Through heartfelt lyrics and powerful performances, we aim to connect with listeners on a profound level, sharing stories of love, life's struggles, and the pursuit of dreams.
-
+"Maasai Music Band: A cultural symphony merging ancient Maasai melodies with modern sounds. Harmonizing tradition and innovation, their music resonates with the soul of Africa, forging a unique auditory journey."
 ### Project Setup Instructions
 
-To set up the Eagle Music Band project locally, follow these steps:
+To set up the  Band project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
